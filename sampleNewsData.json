@@ -1,0 +1,1105 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2024 The New York Times Company.  All Rights Reserved.",
+  "num_results": 20,
+  "results": [
+    {
+      "uri": "nyt://article/2b9e67d7-5ce8-514e-9179-86f852163f9f",
+      "url": "https://www.nytimes.com/2024/01/22/well/move/strength-30-second-power-test-aging.html",
+      "id": 100000009200691,
+      "asset_id": 100000009200691,
+      "source": "New York Times",
+      "published_date": "2024-01-22",
+      "updated": "2024-01-22 18:02:00",
+      "section": "Well",
+      "subsection": "Move",
+      "nytdsection": "well",
+      "adx_keywords": "Content Type: Service;Exercise;Muscles;Age, Chronological;Weight Lifting;Elderly;Physical Therapy",
+      "column": null,
+      "byline": "By Amanda Loudin",
+      "type": "Article",
+      "title": "Take the 30-Second Power Test",
+      "abstract": "You need more than strength to age well — you also need power. Here’s how to measure how much you have.",
+      "des_facet": [
+        "Content Type: Service",
+        "Exercise",
+        "Muscles",
+        "Age, Chronological",
+        "Weight Lifting",
+        "Elderly",
+        "Physical Therapy"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Gritchelle Fallesgon for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/01/22/multimedia/22AGING-POWER-1-ltmp/22AGING-POWER-1-ltmp-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/01/22/multimedia/22AGING-POWER-1-ltmp/22AGING-POWER-1-ltmp-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/01/22/multimedia/22AGING-POWER-1-ltmp/22AGING-POWER-1-ltmp-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/55b771ab-572f-5a57-bd60-143237b7b460",
+      "url": "https://www.nytimes.com/2024/01/22/opinion/trump-biden-haley-presidential-election.html",
+      "id": 100000009272594,
+      "asset_id": 100000009272594,
+      "source": "New York Times",
+      "published_date": "2024-01-22",
+      "updated": "2024-01-23 13:03:49",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Presidential Election of 2024;Primaries and Caucuses;United States Politics and Government;Abortion;Debates (Political);Democracy (Theory and Philosophy);Infrastructure (Public Works);United States Economy;Storming of the US Capitol (Jan, 2021);DeSantis, Ron;Trump, Donald J;Biden, Joseph R Jr;Haley, Nikki R;Republican Party;Democratic Party",
+      "column": null,
+      "byline": "By Gail Collins and Bret Stephens",
+      "type": "Article",
+      "title": "There Is Another Passenger on the Trump Train",
+      "abstract": "And it’s getting very crowded.",
+      "des_facet": [
+        "Presidential Election of 2024",
+        "Primaries and Caucuses",
+        "United States Politics and Government",
+        "Abortion",
+        "Debates (Political)",
+        "Democracy (Theory and Philosophy)",
+        "Infrastructure (Public Works)",
+        "United States Economy",
+        "Storming of the US Capitol (Jan, 2021)"
+      ],
+      "org_facet": ["Republican Party", "Democratic Party"],
+      "per_facet": [
+        "DeSantis, Ron",
+        "Trump, Donald J",
+        "Biden, Joseph R Jr",
+        "Haley, Nikki R"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The bus is getting crowded, too. ",
+          "copyright": "Mark Peterson for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/01/23/opinion/22conversation/22conversation-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/01/23/opinion/22conversation/22conversation-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/01/23/opinion/22conversation/22conversation-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/afef57fe-88d6-5e9a-a350-2192f973c625",
+      "url": "https://www.nytimes.com/2024/01/22/us/dexter-scott-king-dead.html",
+      "id": 100000009276581,
+      "asset_id": 100000009276581,
+      "source": "New York Times",
+      "published_date": "2024-01-22",
+      "updated": "2024-01-22 19:25:57",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Assassinations and Attempted Assassinations;Civil Rights Movement (1954-68);Deaths (Obituaries);Black People;King, Coretta Scott;King, Dexter Scott;King, Martin Luther Jr;Ray, James Earl;King Center",
+      "column": null,
+      "byline": "By Clay Risen",
+      "type": "Article",
+      "title": "Dexter Scott King, Younger Son of Martin Luther King Jr., Dies at 62",
+      "abstract": "As the longtime chairman of the King Center, he worked closely — and clashed at times — with his siblings over control of their father’s legacy.",
+      "des_facet": [
+        "Assassinations and Attempted Assassinations",
+        "Civil Rights Movement (1954-68)",
+        "Deaths (Obituaries)",
+        "Black People"
+      ],
+      "org_facet": ["King Center"],
+      "per_facet": [
+        "King, Coretta Scott",
+        "King, Dexter Scott",
+        "King, Martin Luther Jr",
+        "Ray, James Earl"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dexter King, a son of the Rev. Dr. Martin Luther King Jr., sought to shape his father’s legacy. ",
+          "copyright": "Jessica McGowan for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/01/22/multimedia/22King1-gqzp/22King1-gqzp-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/01/22/multimedia/22King1-gqzp/22King1-gqzp-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/01/22/multimedia/22King1-gqzp/22King1-gqzp-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/4785c992-1053-521d-8be3-f10bf762275d",
+      "url": "https://www.nytimes.com/2024/01/23/business/media/charles-osgood-dead.html",
+      "id": 100000006713072,
+      "asset_id": 100000006713072,
+      "source": "New York Times",
+      "published_date": "2024-01-23",
+      "updated": "2024-01-23 17:04:11",
+      "section": "Business",
+      "subsection": "Media",
+      "nytdsection": "business",
+      "adx_keywords": "Deaths (Obituaries);News and News Media;Television;Radio;Osgood, Charles;CBS News",
+      "column": null,
+      "byline": "By James Barron",
+      "type": "Article",
+      "title": "Charles Osgood, Lyrical Newscaster on Radio and TV, Dies at 91",
+      "abstract": "A familiar face on television as the host of “CBS Sunday Morning” from 1994 to 2016, he was also known for his “Osgood File” segments on CBS Radio, often delivered with humor and a rhyme.",
+      "des_facet": [
+        "Deaths (Obituaries)",
+        "News and News Media",
+        "Television",
+        "Radio"
+      ],
+      "org_facet": ["CBS News"],
+      "per_facet": ["Osgood, Charles"],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Charles Osgood in the WCBS Radio studio in New York in 1967. Radio was his passion, so much so that he closed his TV broadcasts by saying, “See you on the radio.”",
+          "copyright": "CBS, via Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/01/24/multimedia/23osgood-tjfk-print4-SUB/23osgood-tjfk-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/01/24/multimedia/23osgood-tjfk-print4-SUB/23osgood-tjfk-print4-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/01/24/multimedia/23osgood-tjfk-print4-SUB/23osgood-tjfk-print4-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/1b62bfcf-09b2-52eb-9cfc-c5feef489b33",
+      "url": "https://www.nytimes.com/2024/01/23/nyregion/nypd-cooler-incident-manslaughter.html",
+      "id": 100000009277959,
+      "asset_id": 100000009277959,
+      "source": "New York Times",
+      "published_date": "2024-01-23",
+      "updated": "2024-01-23 16:32:42",
+      "section": "New York",
+      "subsection": "",
+      "nytdsection": "new york",
+      "adx_keywords": "Drug Abuse and Traffic;Murders, Attempted Murders and Homicides;Police;internal-storyline-no;Duprey, Eric (d 2023);Duran, Erik R (New York, NY, Police Officer);Police Department (NYC);Bronx (NYC)",
+      "column": null,
+      "byline": "By Hurubie Meko and Anusha Bayya",
+      "type": "Article",
+      "title": "Police Officer Who Threw Cooler at Fleeing Man Charged With Manslaughter",
+      "abstract": "Erik Duran, a police sergeant, was part of drug-sting operation in the Bronx when he tried to stop a suspect on a motorbike. The man lost control, crashed and died.",
+      "des_facet": [
+        "Drug Abuse and Traffic",
+        "Murders, Attempted Murders and Homicides",
+        "Police",
+        "internal-storyline-no"
+      ],
+      "org_facet": ["Police Department (NYC)"],
+      "per_facet": [
+        "Duprey, Eric (d 2023)",
+        "Duran, Erik R (New York, NY, Police Officer)"
+      ],
+      "geo_facet": ["Bronx (NYC)"],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Protesters and the family of Eric Duprey demanded criminal charges in the wake of his death.",
+          "copyright": "Stephanie Keith for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/01/23/multimedia/23cooler-cop-fbzl/23cooler-cop-fbzl-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/01/23/multimedia/23cooler-cop-fbzl/23cooler-cop-fbzl-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/01/23/multimedia/23cooler-cop-fbzl/23cooler-cop-fbzl-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/a6745251-822d-5b63-8cde-536442055cf1",
+      "url": "https://www.nytimes.com/2024/01/23/opinion/desantis-trump-republicans-primaries.html",
+      "id": 100000009275718,
+      "asset_id": 100000009275718,
+      "source": "New York Times",
+      "published_date": "2024-01-23",
+      "updated": "2024-01-23 10:11:30",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Federal Criminal Case Against Trump (2020 Election Case);Conservatism (US Politics);Presidential Election of 2024;United States Politics and Government;Social Media;Primaries and Caucuses;DeSantis, Ron;Haley, Nikki R;Trump, Donald J;Republican Party",
+      "column": null,
+      "byline": "By Jamelle Bouie",
+      "type": "Article",
+      "title": "Did No One Tell Ron DeSantis That Trump Was Running, Too?",
+      "abstract": "It sure felt that way sometimes.",
+      "des_facet": [
+        "Federal Criminal Case Against Trump (2020 Election Case)",
+        "Conservatism (US Politics)",
+        "Presidential Election of 2024",
+        "United States Politics and Government",
+        "Social Media",
+        "Primaries and Caucuses"
+      ],
+      "org_facet": ["Republican Party"],
+      "per_facet": ["DeSantis, Ron", "Haley, Nikki R", "Trump, Donald J"],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Mark Peterson for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/01/23/multimedia/23bouie-lphf/23bouie-lphf-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/01/23/multimedia/23bouie-lphf/23bouie-lphf-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/01/23/multimedia/23bouie-lphf/23bouie-lphf-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/332801d0-c46e-5875-9da6-567f327e94fc",
+      "url": "https://www.nytimes.com/article/best-breakfast-recipes.html",
+      "id": 100000009257874,
+      "asset_id": 100000009257874,
+      "source": "New York Times",
+      "published_date": "2024-01-22",
+      "updated": "2024-01-23 17:55:29",
+      "section": "Food",
+      "subsection": "",
+      "nytdsection": "food",
+      "adx_keywords": "Recipes;Cooking and Cookbooks;Content Type: Service",
+      "column": null,
+      "byline": "By Krysten Chambrot",
+      "type": "Article",
+      "title": "24 Breakfast Recipes to Make You a Morning Person",
+      "abstract": "Don’t rise and grind. Rise and dine.",
+      "des_facet": [
+        "Recipes",
+        "Cooking and Cookbooks",
+        "Content Type: Service"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/ec12d1f6-3642-5865-9712-043e8eedb7ff",
+      "url": "https://www.nytimes.com/2024/01/23/movies/2024-oscar-nominees-list.html",
+      "id": 100000009267814,
+      "asset_id": 100000009267814,
+      "source": "New York Times",
+      "published_date": "2024-01-23",
+      "updated": "2024-01-23 11:42:01",
+      "section": "Movies",
+      "subsection": "",
+      "nytdsection": "movies",
+      "adx_keywords": "Movies;Academy Awards (Oscars)",
+      "column": null,
+      "byline": "By Shivani Gonzalez",
+      "type": "Article",
+      "title": "Oscar Nominees 2024: See the Full List",
+      "abstract": "The complete list of Academy Award nominees for 2024.",
+      "des_facet": ["Movies", "Academy Awards (Oscars)"],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Cillian Murphy in “Oppenheimer.”",
+          "copyright": "Universal Pictures",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/01/23/multimedia/23oscars-list-tglz/23oscars-list-tglz-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/01/23/multimedia/23oscars-list-tglz/23oscars-list-tglz-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/01/23/multimedia/23oscars-list-tglz/23oscars-list-tglz-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://interactive/f3d07712-ec0a-559e-9e2a-7a6f9e619392",
+      "url": "https://www.nytimes.com/interactive/2024/01/22/dining/restaurant-menu-trends.html",
+      "id": 100000009276143,
+      "asset_id": 100000009276143,
+      "source": "New York Times",
+      "published_date": "2024-01-22",
+      "updated": "2024-01-23 12:49:33",
+      "section": "Food",
+      "subsection": "",
+      "nytdsection": "food",
+      "adx_keywords": "Restaurants;vis-design",
+      "column": null,
+      "byline": "By Priya Krishna, Tanya Sichynsky and Umi Syam",
+      "type": "Interactive",
+      "title": "The Menu Trends That Define Dining Right Now",
+      "abstract": "We gathered 121 menus from restaurants all over the country. Together, they offer a glimpse into the tastes and values of today.",
+      "des_facet": ["Restaurants", "vis-design"],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "",
+          "caption": "",
+          "copyright": "",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/01/22/dining/restaurant-menu-trends-1705973254659/restaurant-menu-trends-1705973254659-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/01/22/dining/restaurant-menu-trends-1705973254659/restaurant-menu-trends-1705973254659-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/01/22/dining/restaurant-menu-trends-1705973254659/restaurant-menu-trends-1705973254659-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/8e1c6297-d12d-5ef9-a7e8-181a05f49110",
+      "url": "https://www.nytimes.com/2024/01/23/movies/oscars-snubs-surprises-2024.html",
+      "id": 100000009277861,
+      "asset_id": 100000009277861,
+      "source": "New York Times",
+      "published_date": "2024-01-23",
+      "updated": "2024-01-23 17:21:33",
+      "section": "Movies",
+      "subsection": "",
+      "nytdsection": "movies",
+      "adx_keywords": "Academy Awards (Oscars);Movies;Actors and Actresses;DiCaprio, Leonardo;Ferrera, America;Gerwig, Greta;Robbie, Margot;Triet, Justine",
+      "column": null,
+      "byline": "By Kyle Buchanan",
+      "type": "Article",
+      "title": "The Biggest Oscar Snubs and Surprises 2024: Greta Gerwig and Margot Robbie Miss Out in Key Races",
+      "abstract": "It was a strong year for female directors overall, though the academy still seems to frown on younger male actors.",
+      "des_facet": [
+        "Academy Awards (Oscars)",
+        "Movies",
+        "Actors and Actresses"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "DiCaprio, Leonardo",
+        "Ferrera, America",
+        "Gerwig, Greta",
+        "Robbie, Margot",
+        "Triet, Justine"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Though Ryan Gosling, left, received an Oscar nomination, star Margot Robbie and director Greta Gerwig, right, were nominated in some categories but not others.",
+          "copyright": "Warner Bros.",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/01/23/multimedia/23oscars-snubs-chgf/23oscars-snubs-chgf-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/01/23/multimedia/23oscars-snubs-chgf/23oscars-snubs-chgf-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/01/23/multimedia/23oscars-snubs-chgf/23oscars-snubs-chgf-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/70ad2d18-9676-5a84-990f-6b4f1a82ef03",
+      "url": "https://www.nytimes.com/2024/01/23/science/photography-rats-selfies.html",
+      "id": 100000009271968,
+      "asset_id": 100000009271968,
+      "source": "New York Times",
+      "published_date": "2024-01-23",
+      "updated": "2024-01-23 16:15:09",
+      "section": "Science",
+      "subsection": "",
+      "nytdsection": "science",
+      "adx_keywords": "Photography;Rats;Social Media;Animal Behavior;your-feed-animals;your-feed-science",
+      "column": null,
+      "byline": "By Emily Anthes",
+      "type": "Article",
+      "title": "Our Rodent Selfies, Ourselves",
+      "abstract": "A photographer trained two rats to take photographs of themselves. They didn’t want to stop.",
+      "des_facet": [
+        "Photography",
+        "Rats",
+        "Social Media",
+        "Animal Behavior",
+        "your-feed-animals",
+        "your-feed-science"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Augustin Lignier",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/01/23/multimedia/23sci-ratselfies-opener/23sci-ratselfies-opener-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/01/23/multimedia/23sci-ratselfies-opener/23sci-ratselfies-opener-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/01/23/multimedia/23sci-ratselfies-opener/23sci-ratselfies-opener-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/55c095f4-c03c-5ee6-97b1-1556d4805638",
+      "url": "https://www.nytimes.com/2024/01/23/us/california-state-faculty-strike-deal.html",
+      "id": 100000009277634,
+      "asset_id": 100000009277634,
+      "source": "New York Times",
+      "published_date": "2024-01-23",
+      "updated": "2024-01-23 17:37:40",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Organized Labor;Colleges and Universities;California State University;California",
+      "column": null,
+      "byline": "By Soumya Karlamangla",
+      "type": "Article",
+      "title": "Cal State Professors Reach Tentative Deal to End Strike",
+      "abstract": "Faculty members and other academic workers in the nation’s largest four-year public university system walked out on Monday just as classes were scheduled to begin at many campuses.",
+      "des_facet": ["Organized Labor", "Colleges and Universities"],
+      "org_facet": ["California State University"],
+      "per_facet": [],
+      "geo_facet": ["California"],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "California State University faculty members and other employees on strike on Monday in Los Angeles.",
+          "copyright": "Frederic J. Brown/Agence France-Presse — Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/01/23/multimedia/23nat-csu-deal-cvzm/23nat-csu-deal-cvzm-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/01/23/multimedia/23nat-csu-deal-cvzm/23nat-csu-deal-cvzm-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/01/23/multimedia/23nat-csu-deal-cvzm/23nat-csu-deal-cvzm-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://interactive/fe6c051d-3051-5717-9987-3e4ee8056313",
+      "url": "https://www.nytimes.com/interactive/2023/us/politics/presidential-candidates-2024.html",
+      "id": 100000008780405,
+      "asset_id": 100000008780405,
+      "source": "New York Times",
+      "published_date": "2023-02-21",
+      "updated": "2024-01-21 19:44:02",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Presidential Election of 2024;United States Politics and Government;internal-multiple-visits-anons;internal-multiple-visits-regis;Trump, Donald J;Biden, Joseph R Jr;Haley, Nikki R;Ramaswamy, Vivek (1985- )",
+      "column": null,
+      "byline": "By Martín González Gómez and Maggie Astor",
+      "type": "Interactive",
+      "title": "Who’s Running for President in 2024?",
+      "abstract": "See who is in, and who is out.",
+      "des_facet": [
+        "Presidential Election of 2024",
+        "United States Politics and Government",
+        "internal-multiple-visits-anons",
+        "internal-multiple-visits-regis"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Trump, Donald J",
+        "Biden, Joseph R Jr",
+        "Haley, Nikki R",
+        "Ramaswamy, Vivek (1985- )"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "",
+          "caption": "",
+          "copyright": "The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/02/21/multimedia/2023-02-10-2024-candidate-tracker-index/2023-02-10-2024-candidate-tracker-index-thumbStandard-v40.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/21/multimedia/2023-02-10-2024-candidate-tracker-index/2023-02-10-2024-candidate-tracker-index-mediumThreeByTwo210-v40.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/21/multimedia/2023-02-10-2024-candidate-tracker-index/2023-02-10-2024-candidate-tracker-index-mediumThreeByTwo440-v40.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://interactive/bb4a1c35-5c35-54c1-9967-59ea48fa02e1",
+      "url": "https://www.nytimes.com/interactive/2024/01/22/business/magnificent-seven-stocks-tech.html",
+      "id": 100000009238852,
+      "asset_id": 100000009238852,
+      "source": "New York Times",
+      "published_date": "2024-01-22",
+      "updated": "2024-01-23 12:43:49",
+      "section": "Business",
+      "subsection": "",
+      "nytdsection": "business",
+      "adx_keywords": "Standard & Poor's 500-Stock Index;United States Economy;Corporations;Computers and the Internet;NVIDIA Corporation;Alphabet Inc;Amazon.com Inc;Apple Inc;Meta Platforms Inc;Microsoft Corp;Tesla Motors Inc",
+      "column": null,
+      "byline": "By Karl Russell and Joe Rennison",
+      "type": "Interactive",
+      "title": "These Seven Tech Stocks Are Driving the Market",
+      "abstract": "See how a handful of stocks have had an outsize impact on the performance of the S&P 500",
+      "des_facet": [
+        "Standard & Poor's 500-Stock Index",
+        "United States Economy",
+        "Corporations",
+        "Computers and the Internet"
+      ],
+      "org_facet": [
+        "NVIDIA Corporation",
+        "Alphabet Inc",
+        "Amazon.com Inc",
+        "Apple Inc",
+        "Meta Platforms Inc",
+        "Microsoft Corp",
+        "Tesla Motors Inc"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "",
+          "caption": "",
+          "copyright": "Karl Russell",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/12/22/multimedia/2023-12-12-magificent-seven-stocks-index/2023-12-12-magificent-seven-stocks-index-thumbStandard-v3.png",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/12/22/multimedia/2023-12-12-magificent-seven-stocks-index/2023-12-12-magificent-seven-stocks-index-mediumThreeByTwo210-v3.png",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/12/22/multimedia/2023-12-12-magificent-seven-stocks-index/2023-12-12-magificent-seven-stocks-index-mediumThreeByTwo440-v3.png",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/7974a000-14d2-5c6e-8925-2b4542a16170",
+      "url": "https://www.nytimes.com/2024/01/23/movies/oscar-nominated-movies-streaming.html",
+      "id": 100000009277118,
+      "asset_id": 100000009277118,
+      "source": "New York Times",
+      "published_date": "2024-01-23",
+      "updated": "2024-01-23 14:35:27",
+      "section": "Movies",
+      "subsection": "",
+      "nytdsection": "movies",
+      "adx_keywords": "Movies;Academy Awards (Oscars)",
+      "column": null,
+      "byline": "By Scott Tobias",
+      "type": "Article",
+      "title": "Where to Stream the 2024 Oscar Nominees",
+      "abstract": "Many of the top contenders can be watched at home. Here’s a guide to help you get a jump on the field.",
+      "des_facet": ["Movies", "Academy Awards (Oscars)"],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Margot Robbie in “Barbie.”",
+          "copyright": "Warner Bros. Pictures",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/01/23/multimedia/23oscars-stream-lqbt/23oscars-stream-lqbt-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/01/23/multimedia/23oscars-stream-lqbt/23oscars-stream-lqbt-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/01/23/multimedia/23oscars-stream-lqbt/23oscars-stream-lqbt-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/45b2906f-bf18-50ee-9512-4e3e353ecd6b",
+      "url": "https://www.nytimes.com/2024/01/23/us/nitrogen-execution-alabama-kenneth-smith.html",
+      "id": 100000009260969,
+      "asset_id": 100000009260969,
+      "source": "New York Times",
+      "published_date": "2024-01-23",
+      "updated": "2024-01-23 19:06:42",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Capital Punishment;Nitrogen;Smith, Kenneth (1988 Murder);Alabama",
+      "column": null,
+      "byline": "By Nicholas Bogel-Burroughs",
+      "type": "Article",
+      "title": "After a Botched Execution, Alabama Is Trying an Untested Method",
+      "abstract": "The state plans to carry out the first U.S. execution via nitrogen hypoxia with Kenneth Smith, who survived an earlier attempt to execute him by lethal injection.",
+      "des_facet": ["Capital Punishment", "Nitrogen"],
+      "org_facet": [],
+      "per_facet": ["Smith, Kenneth (1988 Murder)"],
+      "geo_facet": ["Alabama"],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The William C. Holman Correctional Facility in Atmore, Ala., is where Kenneth Smith has been on death row.",
+          "copyright": "Jeff Haller for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/01/19/multimedia/19nat-nitrogen-execution-01-qpbj/19nat-nitrogen-execution-01-qpbj-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/01/19/multimedia/19nat-nitrogen-execution-01-qpbj/19nat-nitrogen-execution-01-qpbj-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/01/19/multimedia/19nat-nitrogen-execution-01-qpbj/19nat-nitrogen-execution-01-qpbj-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/2230f044-ad4d-5180-b984-3b4e9ecab267",
+      "url": "https://www.nytimes.com/2024/01/22/world/europe/italy-san-giovanni-lipioni-aging.html",
+      "id": 100000009268026,
+      "asset_id": 100000009268026,
+      "source": "New York Times",
+      "published_date": "2024-01-22",
+      "updated": "2024-01-23 14:41:18",
+      "section": "World",
+      "subsection": "Europe",
+      "nytdsection": "world",
+      "adx_keywords": "Elderly;Population;San Giovanni Lipioni (Italy)",
+      "column": null,
+      "byline": "By Jason Horowitz",
+      "type": "Article",
+      "title": "An Italian Town Full of the Elderly Wants to Feel Young Again",
+      "abstract": "San Giovanni Lipioni, a tiny town in central Italy, has one of the oldest average populations in the country but hopes a marketing push will attract younger people.",
+      "des_facet": ["Elderly", "Population"],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": ["San Giovanni Lipioni (Italy)"],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Pietro Grosso, 18 months old, was the only child born in 2022 in San Giovanni Lipioni, Italy.",
+          "copyright": "Gianni Cipriano for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/01/18/multimedia/18italy-dispatch-01-kwmg/18italy-dispatch-01-kwmg-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/01/18/multimedia/18italy-dispatch-01-kwmg/18italy-dispatch-01-kwmg-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/01/18/multimedia/18italy-dispatch-01-kwmg/18italy-dispatch-01-kwmg-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/c9551f43-1bc9-5380-bb79-113175a426a6",
+      "url": "https://www.nytimes.com/2024/01/06/technology/smartphone-addiction-flip-phone.html",
+      "id": 100000009221273,
+      "asset_id": 100000009221273,
+      "source": "New York Times",
+      "published_date": "2024-01-06",
+      "updated": "2024-01-23 14:20:59",
+      "section": "Technology",
+      "subsection": "",
+      "nytdsection": "technology",
+      "adx_keywords": "Smartphones;iPhone;Social Media;Mobile Applications;Text Messaging;Brain;Addiction (Psychology);Apple Inc;Google Inc",
+      "column": null,
+      "byline": "By Kashmir Hill",
+      "type": "Article",
+      "title": "I Was Addicted to My Smartphone, So I Switched to a Flip Phone for a Month",
+      "abstract": "Was it inconvenient? Yes. Did T9 texting drive me crazy? Definitely. Was it worth doing? Absolutely.",
+      "des_facet": [
+        "Smartphones",
+        "iPhone",
+        "Social Media",
+        "Mobile Applications",
+        "Text Messaging",
+        "Brain",
+        "Addiction (Psychology)"
+      ],
+      "org_facet": ["Apple Inc", "Google Inc"],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Photo illustration by Plamen Petkov for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/01/07/multimedia/07FLIPPHONE-fvgb/07FLIPPHONE-fvgb-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/01/07/multimedia/07FLIPPHONE-fvgb/07FLIPPHONE-fvgb-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/01/07/multimedia/07FLIPPHONE-fvgb/07FLIPPHONE-fvgb-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/cf457cf5-23be-5c2c-99ee-a89125bff9ab",
+      "url": "https://www.nytimes.com/2024/01/22/us/san-diego-storm-flood.html",
+      "id": 100000009277069,
+      "asset_id": 100000009277069,
+      "source": "New York Times",
+      "published_date": "2024-01-22",
+      "updated": "2024-01-23 09:16:16",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Rain;Floods;Power Failures and Blackouts;Weather;San Diego (Calif)",
+      "column": null,
+      "byline": "By Corina Knoll and Vik Jolly",
+      "type": "Article",
+      "title": "In San Diego, Furious Deluge Floods Homes and Freeways",
+      "abstract": "An intense downpour brought more rain to the city on Monday than Tropical Storm Hilary did last year.",
+      "des_facet": [
+        "Rain",
+        "Floods",
+        "Power Failures and Blackouts",
+        "Weather"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": ["San Diego (Calif)"],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Celene Pulido’s home was flooded in San Diego on Monday. Dirt residue shows how high the water reached before receding.",
+          "copyright": "Ariana Drehsler for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/01/22/multimedia/22nat-sandiego-weather-sub-jplz/22nat-sandiego-weather-sub-jplz-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/01/22/multimedia/22nat-sandiego-weather-sub-jplz/22nat-sandiego-weather-sub-jplz-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/01/22/multimedia/22nat-sandiego-weather-sub-jplz/22nat-sandiego-weather-sub-jplz-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/59c4921b-8a52-5b8c-be8b-17764e5fcf07",
+      "url": "https://www.nytimes.com/2024/01/23/us/politics/dixville-notch-new-hampshire-haley-2024.html",
+      "id": 100000009276229,
+      "asset_id": 100000009276229,
+      "source": "New York Times",
+      "published_date": "2024-01-23",
+      "updated": "2024-01-23 14:55:40",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Presidential Election of 2024;United States Politics and Government;Primaries and Caucuses;Trump, Donald J;Haley, Nikki R;Republican Party;New Hampshire",
+      "column": null,
+      "byline": "By Alyce McFadden",
+      "type": "Article",
+      "title": "We Talked to the Dixville 6, the Midnight Voters Who All Went for Haley",
+      "abstract": "Nikki Haley took all six votes in Dixville Notch, but it could be a different story in the rest of the state, as Donald J. Trump has a comfortable lead in the polls.",
+      "des_facet": [
+        "Presidential Election of 2024",
+        "United States Politics and Government",
+        "Primaries and Caucuses"
+      ],
+      "org_facet": ["Republican Party"],
+      "per_facet": ["Trump, Donald J", "Haley, Nikki R"],
+      "geo_facet": ["New Hampshire"],
+      "media": [],
+      "eta_id": 0
+    }
+  ]
+}
